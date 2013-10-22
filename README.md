@@ -1,5 +1,4 @@
-: http://snippets.aktagon.com/snippets/137-how-to-generate-a-pronouncable-password-with-phpPass
-
+## EasyPass
 
 Pronounceable Password Generator for Node.js
 
