@@ -1,0 +1,24 @@
+{
+  "name": "easypass",
+  "version": "1.0.0",
+  "description": "Pronounceable Password Generator",
+  "main": "easypass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inadarei/easypass.git"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "pronounceable",
+    "utility"
+  ],
+  "author": "Irakli Nadareishvili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inadarei/easypass/issues"
+  }
+}
